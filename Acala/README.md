@@ -4,6 +4,8 @@
 
 [The Workshop Repo](https://www.github.com/ermalkaleci/encode-workshop-example-trader)
 
+[The recording - Comming soon]()
+
 Acala is a parachains for Defi on Polka.  
 Kusama Network called Auruka.  
 
@@ -44,5 +46,27 @@ chopstick only reads to chain. It doesnt write to chain.
 Yeah similar like ganache, but diffrent.  
 I like the picture. Screenshot can be found [here](https://ibb.co/jvBxQHp)  
 
-There is a demo
-github.com/ermalkaleci/encode-workshop-example-trader
+There is a demo  
+github.com/ermalkaleci/encode-workshop-example-trader  
+
+Follow the recordings. I would get to distracted while taking notes.  
+these are the recording. [Comming Soon]()  
+The code is really readable. I guess, chatgpt could even explain it, because deploy.ts its quite one step after another written. I have to try to to some later point in time.  
+
+The contract does the following.
+The goal is how to access the Acala EVM.
+The main work is in deploy.ts and how to use chopstick.
+We swap tokens.  
+The contract does checking if ACA is lower than 1 then deploy.
+If higher than not deploy.
+If deployed it calls transfer and we swap tokens.
+
+In line 90 in IDEX.sol we can how much.
+
+His name is Ermal and has Twitter.
+Its Twitter is @KaleciErmal
+
+There is a [linktree](https://www.linktr.ee/acalanetwork)
+
+Chopstick allows XCM Testing. 
+Its quite easy to set up. 
