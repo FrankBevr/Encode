@@ -4,7 +4,7 @@
 
 [Swanky & Tutorials](https://docs.astar.network/docs/build/wasm/from-zero-to-ink-hero/)
 
-[Video - comming soon]()
+[The recording](https://www.youtube.com/watch?v=x7Ebz_ofpr0)
 
 We build a Psp 22
 
