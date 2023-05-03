@@ -1,5 +1,5 @@
 use ink::prelude::string::String as PreludeString;
-
+use ink::prelude::vec::Vec;
 use openbrush::{
     contracts::psp34::PSP34Error,
     traits::{AccountId, Balance},

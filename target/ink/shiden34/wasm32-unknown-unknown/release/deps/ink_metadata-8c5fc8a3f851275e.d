@@ -1,0 +1,11 @@
+/home/simrat1/ink_testing1/flipper/target/ink/shiden34/wasm32-unknown-unknown/release/deps/ink_metadata-8c5fc8a3f851275e.rmeta: /home/simrat1/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/lib.rs /home/simrat1/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/layout/mod.rs /home/simrat1/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/layout/validate.rs /home/simrat1/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/specs.rs /home/simrat1/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/utils.rs
+
+/home/simrat1/ink_testing1/flipper/target/ink/shiden34/wasm32-unknown-unknown/release/deps/libink_metadata-8c5fc8a3f851275e.rlib: /home/simrat1/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/lib.rs /home/simrat1/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/layout/mod.rs /home/simrat1/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/layout/validate.rs /home/simrat1/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/specs.rs /home/simrat1/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/utils.rs
+
+/home/simrat1/ink_testing1/flipper/target/ink/shiden34/wasm32-unknown-unknown/release/deps/ink_metadata-8c5fc8a3f851275e.d: /home/simrat1/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/lib.rs /home/simrat1/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/layout/mod.rs /home/simrat1/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/layout/validate.rs /home/simrat1/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/specs.rs /home/simrat1/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/utils.rs
+
+/home/simrat1/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/lib.rs:
+/home/simrat1/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/layout/mod.rs:
+/home/simrat1/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/layout/validate.rs:
+/home/simrat1/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/specs.rs:
+/home/simrat1/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.0.1/src/utils.rs:

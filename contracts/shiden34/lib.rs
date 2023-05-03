@@ -11,6 +11,7 @@ pub mod shiden34 {
     };
     use payable_mint_pkg::impls::payable_mint::*;
     use payable_mint_pkg::traits::payable_mint::*;
+    use ink::prelude::vec::Vec;
 
     #[ink(storage)]
     #[derive(Default, Storage)]

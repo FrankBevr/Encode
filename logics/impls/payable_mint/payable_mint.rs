@@ -1,4 +1,5 @@
 use ink::prelude::string::{String as PreludeString, ToString};
+use ink::prelude::vec::Vec;
 
 use crate::impls::payable_mint::types::Data;
 pub use crate::traits::payable_mint::PayableMint;
