@@ -1,0 +1,13 @@
+/home/frank/Astar_NFT/target/release/deps/quote-c59b972fb39a3592.rmeta: /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/lib.rs /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/ext.rs /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/format.rs /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/ident_fragment.rs /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/to_tokens.rs /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/runtime.rs /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/spanned.rs
+
+/home/frank/Astar_NFT/target/release/deps/libquote-c59b972fb39a3592.rlib: /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/lib.rs /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/ext.rs /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/format.rs /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/ident_fragment.rs /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/to_tokens.rs /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/runtime.rs /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/spanned.rs
+
+/home/frank/Astar_NFT/target/release/deps/quote-c59b972fb39a3592.d: /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/lib.rs /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/ext.rs /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/format.rs /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/ident_fragment.rs /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/to_tokens.rs /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/runtime.rs /home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/spanned.rs
+
+/home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/lib.rs:
+/home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/ext.rs:
+/home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/format.rs:
+/home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/ident_fragment.rs:
+/home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/to_tokens.rs:
+/home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/runtime.rs:
+/home/frank/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/spanned.rs:
